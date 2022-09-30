@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710532776273",
+    "project_id": "course-swap-d0e67",
+    "storage_bucket": "course-swap-d0e67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710532776273:android:775c6f0d998d562e4e9370",
+        "android_client_info": {
+          "package_name": "com.ujjman.course.courseswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710532776273-2dpeaaj4gvkvaq2pkuujkta7j17uohvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPHyPWrd4y8F3-DGtZhabmQ6tQNIgjmVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710532776273-2dpeaaj4gvkvaq2pkuujkta7j17uohvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
